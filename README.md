@@ -1,2 +1,54 @@
 # WebexTeamsBot
-I am unwillingly part of an organization that requires my cooperation via Webex Teams, however they do they provide the same cooperation on their part. Therefore I have created a bot capable of performing actions for me I had once been restricted from.
+
+*A WebexTeamsBot that gives the freedom of accessibility with little to no effort or technical knowledge required*
+
+## How to use
+
+Step 1:
+
+Make an [application][webdev] and copy the token to your clipboard. Then, [download master.zip][master] and unzip.
+
+Step 2:
+
+Install Python and [WebexTeamsSDK][websdk] (as stated in the requirements section) with a package manager like [pip][pip], then update the [settings.py][settings] with your token you copied.
+
+Step 3:
+
+Open a command-line, go to the directory with the `bot.py`, and run `python3 bot.py`.
+
+Step 4:
+
+Run `help` in the command-line, enjoy~!
+
+---
+
+I worked a lot on this bot last month when I had spare time, so feel free to use change as much as you'd like. I'd like to see what new things you can make with it!
+
+*Disclaimer: I do not like Webex very much, I just had spare time*
+
+---
+## Requirements:
+
+-[Python 3.9][python]
+<br>-[WebexTeamsSDK][websdk]
+
+*(All requirements used visible in [bot.py][bot])*
+
+---
+If you have any issues, [contact me here][support].
+
+You don't have to give credit to me. That's not what Github is for (in my opinion).
+
+<a href="https://mi460.dev/github"><img src="https://img.shields.io/static/v1?label=MCMi460&amp;message=Github&amp;color=c331d4"></a>
+<a href="https://mi460.dev/discord"><img src="https://discordapp.com/api/guilds/699728181841887363/embed.png"></a>
+
+[settings]: https://github.com/MCMi460/WebexTeamsBot/blob/main/settings.py
+[master]: https://github.com/MCMi460/WebexTeamsBot/archive/main.zip
+[python]: https://www.python.org/downloads/
+[websdk]: https://pypi.org/project/webexteamssdk/
+[bot]: https://github.com/MCMi460/noMic/blob/main/bot.py
+[support]: https://mi460.dev/bugs
+[webdev]: https://developer.webex.com/my-apps
+[pip]: https://pypi.org/project/pip/
+
+<!--- You found an easter egg! Here's a cookie UwU :totallyrealcookie.png: -->
