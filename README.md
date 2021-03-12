@@ -42,11 +42,11 @@ You don't have to give credit to me. That's not what Github is for (in my opinio
 <a href="https://mi460.dev/github"><img src="https://img.shields.io/static/v1?label=MCMi460&amp;message=Github&amp;color=c331d4"></a>
 <a href="https://mi460.dev/discord"><img src="https://discordapp.com/api/guilds/699728181841887363/embed.png"></a>
 
-[settings]: https://github.com/MCMi460/WebexTeamsBot/blob/main/settings.py
+[settings]: https://github.com/MCMi460/WebexTeamsBot/blob/main/setup.py
 [master]: https://github.com/MCMi460/WebexTeamsBot/archive/main.zip
 [python]: https://www.python.org/downloads/
 [websdk]: https://pypi.org/project/webexteamssdk/
-[bot]: https://github.com/MCMi460/WebexTeamsBot/blob/main/bot.py
+[bot]: https://github.com/MCMi460/WebexTeamsBot/blob/main/main.py
 [support]: https://mi460.dev/bugs
 [webdev]: https://developer.webex.com/my-apps
 [pip]: https://pypi.org/project/pip/
