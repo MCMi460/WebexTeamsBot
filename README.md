@@ -14,7 +14,7 @@ Install Python and [WebexTeamsSDK][websdk] (as stated in the requirements sectio
 
 Step 3:
 
-Open a command-line, go to the directory with the `bot.py`, and run `python3 main.py` (or `python main.py` if you're on Windows).
+Open a command-line, go to the directory with the `main.py`, and run `python3 main.py` (or `python main.py` if you're on Windows).
 
 Step 4:
 
