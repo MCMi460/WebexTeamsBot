@@ -46,7 +46,7 @@ You don't have to give credit to me. That's not what Github is for (in my opinio
 [master]: https://github.com/MCMi460/WebexTeamsBot/archive/main.zip
 [python]: https://www.python.org/downloads/
 [websdk]: https://pypi.org/project/webexteamssdk/
-[bot]: https://github.com/MCMi460/noMic/blob/main/bot.py
+[bot]: https://github.com/MCMi460/WebexTeamsBot/blob/main/bot.py
 [support]: https://mi460.dev/bugs
 [webdev]: https://developer.webex.com/my-apps
 [pip]: https://pypi.org/project/pip/
