@@ -6,11 +6,11 @@
 
 Step 1:
 
-Make an [application][webdev] and copy the token to your clipboard. Then, [download master.zip][master] and unzip.
+Make a [bot application][webdev] and copy the token to your clipboard. Then, [download master.zip][master] and unzip.
 
 Step 2:
 
-Install Python and [WebexTeamsSDK][websdk] (as stated in the requirements section) with a package manager like [pip][pip], then update the [settings.py][settings] with your token you copied.
+Install [Python][python] and [WebexTeamsSDK][websdk] (as stated in the requirements section) with a package manager like [pip][pip], then update the [settings.py][settings] with your token you copied.
 
 Step 3:
 
